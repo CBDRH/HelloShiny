@@ -1,0 +1,5 @@
+library(holepunch)
+write_compendium_description()
+write_dockerfile()
+generate_badge()
+build_binder()
